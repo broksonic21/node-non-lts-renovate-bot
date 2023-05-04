@@ -1,6 +1,6 @@
 {
   "name": "node-non-lts-renovate-bot",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "test branch only - should get a renovate update for node",
   "license": "UNLICENSED",
   "scripts": {
