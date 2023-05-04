@@ -1,2 +1,4 @@
 # node-non-lts-renovate-bot
-Test non-lts renovate bot updates for node
+Test repository for non-lts renovate bot updates for node.
+
+See https://github.com/renovatebot/renovate/discussions/21973 for discussion.
