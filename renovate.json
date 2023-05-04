@@ -4,5 +4,5 @@
     "config:base"
   ],
   "masterIssue": true,
-  "masterIssueApproval": false
+  "masterIssueApproval": true
 }
